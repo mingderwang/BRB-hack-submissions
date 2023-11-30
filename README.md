@@ -13,12 +13,10 @@ Make a PR to the Master branch with the following:
 
 ## Submissions
 
-Example:
-
-### Title of Project
-- Two line brief of your project
-- Link to any github repositories
+### ERC721 Session Validation Module for Biconomy Smart Accounts.
+- Simply to deploy and test my own ERC721SessionValidationModule.
+- https://github.com/mingderwang/scw-contracts
 - Link to working demo (if not deployed link to video)
-- Members of team you worked with
+- Team member: Ming-der Wang, Samar
 
   
